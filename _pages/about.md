@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
+I am an NLP enthusiast.
 
 ## Professional
 
