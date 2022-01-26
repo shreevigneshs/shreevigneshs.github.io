@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Homepage"
+title                    : "Shree Vignesh"
 title_separator          : "-"
 name                     : "Shree Vignesh"
 description              : "Vignesh's academic homepage"
@@ -104,7 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Shree Vignesh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Associate NLP Researcher at Goldman Sachs R&D"
   location         : 
   employer         : "Goldman Sachs"
