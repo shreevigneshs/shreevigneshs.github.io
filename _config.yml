@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Shree Vignesh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AN NLP enthusiast."
+  bio              : "Associate NLP Researcher at Goldman Sachs R&D"
   location         : 
-  employer         : Goldman Sachs
+  employer         : "Goldman Sachs"
   email            : "shreevignesh.0@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -279,18 +279,18 @@ defaults:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  code:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # code:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -302,34 +302,34 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single-teaching
-      author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single-publication
-      author_profile: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single-talk
-      author_profile: true
-  # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single-code
-      author_profile: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single-teaching
+  #     author_profile: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single-publication
+  #     author_profile: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: single-talk
+  #     author_profile: true
+  # # _code
+  # - scope:
+  #     path: ""
+  #     type: code
+  #   values:
+  #     layout: single-code
+  #     author_profile: true
 
 
 

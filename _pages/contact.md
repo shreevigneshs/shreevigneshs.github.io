@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-Here's my contact info
+If you would like to get into contact, just shoot me an email!
