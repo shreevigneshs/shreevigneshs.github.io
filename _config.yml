@@ -106,9 +106,9 @@ author:
   name             : "Shree Vignesh"
   # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Associate NLP Researcher at Goldman Sachs R&D"
-  location         : 
-  employer         : "Goldman Sachs"
+  bio              : "Graduate Student at UC Sant Cruz | Ex - Associate Machine Learning Engineer (NLP Researcher) at Goldman Sachs Machine Learning (erst.while Rerearch and Development)"
+  location         : "San Jose, California"
+  employer         : "University of California - Santa Cruz"
   email            : "shreevignesh.0@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
