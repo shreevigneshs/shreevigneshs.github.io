@@ -13,4 +13,4 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1-ca0BEBVC6wDalzu_0LAUxxfpyT8s07J/view?usp=sharing" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="https://drive.google.com/file/d/1FDZz9XQd4Wz4SXzfO3jJoWHNJt9tFAqI/view?usp=sharing" class="uline">Click here for a full pdf copy of my CV</a>
